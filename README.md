@@ -10,5 +10,5 @@ This modern loading screen is for the game: garry's mod.
 
 <h2># Support</h2>
 <br>For questions or problems encountered :</br>
-<br>-Discord : SC-Sulivan#2440</br>
+<br>-Discord : sc_sulivan</br>
 -Email : ttron.sm@gmail.com
